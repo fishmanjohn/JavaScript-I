@@ -143,4 +143,4 @@ for(let i = 0; i<inventory.length; i++){
   }
   return BMWAndAudi;
 }
-console.log(zeGermans());
+console.log(JSON.stringify(zeGermans()));
